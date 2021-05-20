@@ -7,6 +7,7 @@
 
 <p align="center"> 💼 Working at <strong>Jubail Dawah Association</strong> </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=alkoumi&label=Profile%20views&color=0e75b6&style=flat" alt="alkoumi"/></h2>
 
 
 <!--
