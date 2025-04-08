@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A Full Stack Software Developer and loving it ʕʘ̅͜ʘ̅ʔ passionate about technology.</h3>
+<h3 align="center">A Full Stack Software Developer and loving it ʕʘ̅͜ʘ̅ʔ </h3>
+<h3 align="center">Passionate about new software technologies. </h3>
+
 
 <p align="center"> 💼 Working at <strong>Jubail Dawah Association</strong> </p> 
 <p align="center"> ⚡ Fun fact: crazy about coffee :coffee: </p>
