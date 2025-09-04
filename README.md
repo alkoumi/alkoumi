@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">A Full Stack Software Developer and loving it ʕʘ̅͜ʘ̅ʔ </h3>
-<h3 align="center">Passionate about new software technologies. </h3>
+<h3 align="center">Passionate about new AI and software technologies. </h3>
 
 
 <p align="center"> 💼 Working at <strong>Jubail Dawah Association</strong> </p> 
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on using AI in D'awah ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: WhatsApp => 966500175200
-- ⚡ Fun fact: crazy about coffee :coffee:
 
 
 <h3 align="center">Alhamdulillah, I already have finished these projects ...</h3>
 <h4>
+- https://huda.jdc.org.sa <br><br>
 - https://apps.jdc.org.sa <br><br>
 - https://jda.sa <br><br>
 - https://jdc.org.sa <br><br>
