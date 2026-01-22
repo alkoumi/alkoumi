@@ -27,15 +27,10 @@ Here are some ideas to get you started:
 <h3 align="center">Alhamdulillah, I already have finished these projects ...</h3>
 <h4>
 - https://huda.jdc.org.sa <br><br>
-- https://apps.jdc.org.sa <br><br>
-- https://jda.sa <br><br>
 - https://jdc.org.sa <br><br>
 - https://enjaz.jdc.org.sa <br><br>
 - https://jsoor.jdc.org.sa <br><br>
 - https://nokhbah.jdc.org.sa <br><br>
-- https://cheque.jdc.org.sa <br><br>
-- https://cheque.jdc.org.sa/sms <br><br>
-- https://books.jdc.org.sa <br><br>
 - https://enjaz.jdc.org.sa <br><br>
 - https://real-happiness.jdc.org.sa <br><br>
 - https://jsoor.jdc.org.sa <br><br>
@@ -43,7 +38,6 @@ Here are some ideas to get you started:
 - https://islam-academy.com <br><br>
 - https://realgoal.life <br><br>
 - https://mohtadeen.jdc.org.sa <br><br>
-- https://pasmah.jdc.org.sa <br><br>
 </h4>
 
 
